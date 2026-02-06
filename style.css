@@ -36,3 +36,9 @@ button {
   background-color: #ddd;
   position: absolute;
 }
+.IMG_1537-img {
+  width: 200px;        /* taille contrôlée */
+  max-width: 80%;     /* responsive téléphone */
+  margin: 20px 0;     /* espace au-dessus et en dessous */
+  display: block;     /* empêche les comportements chelous */
+}
