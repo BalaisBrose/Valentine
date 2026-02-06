@@ -38,7 +38,7 @@ button {
 }
 .IMG_1537-img {
   width: 200px;        /* taille contrôlée */
-  max-width: 80%;     /* responsive téléphone */
+  max-width: 20%;     /* responsive téléphone */
   margin: 20px 0;     /* espace au-dessus et en dessous */
   display: block;     /* empêche les comportements chelous */
 }
